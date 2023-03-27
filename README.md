@@ -11,3 +11,5 @@ EP.4 : การเก็บข้อมูล/เก็บแบบ list,dictio
 EP.5 : Install PIP/List,Dictionary/for loop,while loop, If conditions
 
 EP.6 : OOP Python: function method instance
+
+EP.7 : pyautogui/ งานอัตโนมัติด้านต่าง ๆ
